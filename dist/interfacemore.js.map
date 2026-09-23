@@ -1,0 +1,1 @@
+{"version":3,"file":"interfacemore.js","sourceRoot":"","sources":["../src/interfacemore.ts"],"names":[],"mappings":";;AAIA,MAAM,QAAQ,GAAO;IACjB,KAAK,CAAC,KAAQ;QACV,OAAO,CAAC,GAAG,CAAC,YAAY,KAAK,EAAE,CAAC,CAAA;IACpC,CAAC;IACD,IAAI,CAAC,KAAQ;QACT,OAAO,CAAC,GAAG,CAAC,cAAc,KAAK,EAAE,CAAC,CAAA;IACtC,CAAC;CACJ,CAAA"}

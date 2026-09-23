@@ -6,4 +6,4 @@ const placeOrder=(order:Partial<chai>)=>{
     console.log(order);
 
 }
-placeOrder({flav:"adrak"})
+placeOrder({flav:"adrak"});
