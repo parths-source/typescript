@@ -11,13 +11,12 @@ const order:chai[]=[
 const items:[name:String ,age:number]=["parth",22];
 
 //enum
-enum size{
+enum size{ 
     Large,
     small,
     medium
 }
-const cupsize=size.Large;
-// enum with keys
+ // enum with keys
 enum flav{
     MASALA="masala",
     GINGER="ginger"
@@ -26,4 +25,4 @@ enum flav{
 function makechai(type:flav){
     console.log(`making %${makechai}`)
 }
-makechai(flav.GINGER);
+makechai(flav.GINGER);k

@@ -20,3 +20,4 @@ const details:user={
     age:20,
     name:"parth"
 }
+ 
